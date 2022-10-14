@@ -1,7 +1,3 @@
-![Header](../../actions/workflows/py-header.yml/badge.svg)
-![Lint](../../actions/workflows/py-lint.yml/badge.svg)
-![Format](../../actions/workflows/py-format.yml/badge.svg)
-
 # Blackjack
 
 The objectives of this exercise are:
